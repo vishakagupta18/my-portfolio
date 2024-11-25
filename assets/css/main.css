@@ -2208,6 +2208,11 @@ input, select, textarea {
 				color: rgba(255, 255, 255, 0.75);
 			}
 
+			.background-overlay {
+				background: rgba(0, 0, 0, .6);
+			}
+
+
 				#main > section.dark h2, #main > section.dark h3, #main > section.dark h4, #main > section.dark h5, #main > section.dark h6 {
 					color: inherit;
 				}
@@ -2610,6 +2615,3 @@ input, select, textarea {
 
 	}
 
-.background-overlay {
-	background: rgba(0, 0, 0, .6);
-}
