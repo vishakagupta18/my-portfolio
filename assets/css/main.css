@@ -2234,7 +2234,7 @@ input, select, textarea {
 
 			#main > section.one {
 				background-color: #81918E;
-				background-image: url("../../images/banner.jpg");
+				background-image: url("../../images/Web-Development.jpg");
 			}
 
 			#main > section.two {
@@ -2610,6 +2610,4 @@ input, select, textarea {
 
 	}
 
-.portfolio-image {
-	background-image: url("/images/Web-Development.jpg")
-}
+
