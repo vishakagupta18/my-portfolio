@@ -2304,13 +2304,7 @@ input, select, textarea {
 
 	}
 
-.tech_text {
-    position: relative;
-    top: -25px;
-    left: 10px;
-    font-size: 30px;
-    font-weight: 500
-}
+
 
 /* Narrow */
 
@@ -2627,3 +2621,11 @@ input, select, textarea {
 
 	}
 
+
+.tech_text {
+    position: relative;
+    top: -25px;
+    left: 10px;
+    font-size: 30px;
+    font-weight: 500
+}
