@@ -2304,6 +2304,14 @@ input, select, textarea {
 
 	}
 
+.tech_text {
+    position: relative;
+    top: -25px;
+    left: 10px;
+    font-size: 30px;
+    font-weight: 500
+}
+
 /* Narrow */
 
 	@media screen and (min-width: 961px) and (max-width: 1320px) {
